@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "nunjucks": "^3.0.1"
+    "nunjucks": "^3.2.4"
   }
 }
